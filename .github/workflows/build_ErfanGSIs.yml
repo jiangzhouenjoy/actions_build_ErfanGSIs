@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download-xys.meizu.com/Firmware/Flyme/U10/5.2.3.3/ali/20170223144117/48c2729f/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/9.8.29/miui_HM4X_9.8.29_72dee00fc2_7.1.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
